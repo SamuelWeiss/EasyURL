@@ -1,0 +1,8 @@
+{
+	"name":"easyurl",
+	"version":"0.0.1",
+	"description":"A simple URL shortening services that uses english words",
+	"dependencies": {
+		"express": "^4.10.1"
+	}
+}
